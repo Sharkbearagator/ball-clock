@@ -1,5 +1,4 @@
 const inquirer = require("inquirer");
-// importing ballclock function
 const ballClock = require('./clock')
 
 // Use inquirer for user input
